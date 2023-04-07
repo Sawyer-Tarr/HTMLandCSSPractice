@@ -1,0 +1,51 @@
+.night-sky {
+    width: 600px;
+    height: 600px;
+    border-radius: 300px;
+    object-fit: cover;
+    object-position: center;
+    border-width: 5px;
+    border-style: solid;
+    border-color:red;
+}
+.search-round {
+    width: 200px;
+    height: 20px;
+    border-radius: 5px;
+    font-size: 16px;
+    border-width: 1px;
+    margin-right: 20px;
+}
+.google-search {
+    width: 500px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    border-radius: 30px;
+    border: none;
+    box-shadow: 0 1px 5px rgba(0, 0, 0, 0.25)
+}
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    opacity: .67;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+.email-box {
+    border-radius: 3px;
+    border-width: 1px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+.agree-and-join {
+    background-color: rgb(25, 123, 202);
+    color: white;
+    border-radius: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 50px;
+    padding-left: 50px;
+    border: none;
+    margin-top: 15px;
+    width: 300px
+}

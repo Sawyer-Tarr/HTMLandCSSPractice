@@ -1,0 +1,112 @@
+.back-amazon-link {
+    color: rgb(0, 113, 133);
+}
+.back-amazon-link:hover {
+    color: rgb(136, 92, 136);
+}
+.product-name {
+    font-weight: bolder;
+    font-size: larger;
+}
+.product-price {
+    color: rgb(0, 118, 0);
+    font-weight: bold;
+}
+.add-to-cart-button {
+    background-color: rgb(255, 216, 20);
+    height: 35px;
+    color: black;
+    width: 120px;
+    border-radius: 60px;
+    border: none;
+    font-weight: bold;
+    margin-right: 8px;
+    transition: background-color 0.15s;
+}
+.add-to-cart-button:hover {
+    background-color: rgb(214, 182, 19);
+}
+.add-to-cart-button:active {
+    opacity: 0.7;
+}
+.buy-now-button {
+    background-color: rgb(255, 164, 28);
+    height: 35px;
+    color: black;
+    width: 120px;
+    border-radius: 60px;
+    border: none;
+    font-weight: bold;
+    transition: background-color 0.15s;
+}
+.buy-now-button:hover {
+    background-color: rgb(221, 143, 27);
+}
+.buy-now-button:active {
+    opacity: 0.7;
+}
+.stretch-button {
+    background-color: green;
+    color: white;
+    border: none;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    transition: padding-left 0.15s, padding-right 0.15s, padding-top 0.15s, padding-bottom 0.15s;
+}
+.stretch-button:hover {
+    padding-left: 26px;
+    padding-right: 26px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+.shadow-button {
+    background-color: green;
+    color: white;
+    border: none;
+    padding-left: 26px;
+    padding-right: 26px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.shadow-button:active {
+    box-shadow: 5px 5px 10px black;
+}
+.one-button {
+    background-color: green;
+    color: white;
+    border: none;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    margin-left: 10px;
+    margin-right: 10px;
+    transition: padding-left 0.5s, padding-right 0.5s;
+}
+.one-button:hover {
+    padding-left: 26px;
+    padding-right: 26px;
+}
+.back-button {
+    margin-right: 8px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    font-size: 16px;
+}
+.search-result {
+    margin-left: 4px;
+    margin-right: 4px;
+    font-size: 18px;
+}
+.next-button {
+    margin-right: 8px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    font-size: 16px;
+}
